@@ -46,7 +46,7 @@ const time = moment.tz('Asia/Jakarta').format('HH')
  await conn.sendButton(m.chat, `${wish()} ${name}`,runnya + '\n\n' + wm + '\n\n' + botdate, thumb, [['🧑OWNER','.owner']], m, {
   'document':{'url':'https://youtu.be/QOm1gEFbMdI'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴹᴿ᭄ PutraModz ×፝֟͜× 」',
+'fileName':'「 ᴹᴿ᭄ DityAstawa ×፝֟͜× 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
@@ -55,7 +55,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ PutraModz ×፝֟͜×`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴹᴿ᭄ PutraModz ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ by ᴹᴿ᭄ DityaAstawa ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
                         mediaUrl: 'https://youtu.be/QOm1gEFbMdI'
                         
