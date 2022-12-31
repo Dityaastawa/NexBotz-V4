@@ -81,7 +81,7 @@ const listMessage = {
 │▸ *sɴ:* ${sn}
 ╰═┅═━––––––๑
 
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: ᴹᴿ᭄ PutraModz ×፝֟͜×
+ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: ᴹᴿ᭄ DityaAstawa ×፝֟͜×
 `
   let buttonMessage= {
 'document':{'url':'https://youtu.be/QOm1gEFbMdI'},
